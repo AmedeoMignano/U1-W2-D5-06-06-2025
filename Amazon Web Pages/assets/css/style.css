@@ -1,0 +1,153 @@
+html {
+  font-size: 62.5%;
+}
+* {
+  box-sizing: border-box;
+}
+.hf {
+  background-color: #242f3d;
+}
+header div img {
+  display: block;
+  width: 90px;
+  padding-left: 2rem;
+  padding-top: 0.5rem;
+  padding-bottom: 1rem;
+}
+.bar {
+  background-color: #394758;
+  color: #e8effa;
+}
+nav li {
+  display: inline-block;
+  padding-right: 1.2rem;
+  font-family: Arial;
+}
+nav {
+  padding-left: 1.8rem;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+}
+main {
+  padding: 0 1.9rem;
+  padding-top: 2rem;
+  background-color: #eaedee;
+}
+#top {
+  background-color: #ff6600;
+  padding: 0.5rem 0;
+  margin-bottom: 2.5rem;
+  color: white;
+  font-family: Arial;
+}
+.text-center {
+  text-align: center;
+}
+#title {
+  background-image: url(../images/bg-image.png);
+  padding: 6.5rem 0;
+  margin-bottom: 2.5rem;
+}
+#title h1 {
+  color: white;
+  font-size: 2.2rem;
+  font-family: arial;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+#title p {
+  color: white;
+  font-size: 1.4rem;
+  font-family: arial;
+}
+#section {
+  background-color: white;
+  text-align: left;
+  padding: 1.4rem;
+  margin-bottom: 2.5rem;
+}
+#section h2 {
+  display: inline-block;
+  margin-right: 1.2rem;
+  margin-bottom: 1.4rem;
+  font-family: arial;
+  font-size: 1.4rem;
+  margin-left: 1rem;
+}
+#section p {
+  display: inline-block;
+  color: #1080a9;
+  font-family: arial;
+  font-size: 1.2rem;
+}
+
+#section div {
+  margin-right: 3rem;
+}
+#section :last-child {
+  margin-right: 0;
+}
+
+.img-gift {
+  display: inline-block;
+  width: 320px;
+  height: 400px;
+  border-radius: 20px;
+  box-shadow: 9px 10px 26px -15px rgba(0, 0, 0, 0.75);
+}
+#img1 {
+  background-image: url(../images/img_1.jpg);
+  background-size: cover;
+  background-position-x: -30px;
+  margin-left: 1rem;
+}
+#img2 {
+  background-image: url(../images/img_2.jpg);
+  background-size: cover;
+  background-position-x: -100px;
+}
+#img3 {
+  background-image: url(../images/img_3.jpg);
+  background-size: cover;
+  background-position-x: -90px;
+}
+#img4 {
+  background-image: url(../images/img_4.jpg);
+  background-size: cover;
+  background-position-x: -85px;
+}
+aside img {
+  width: 100%;
+}
+aside h2 {
+  display: inline-block;
+  margin-right: 1rem;
+  margin-top: 0.5rem;
+  font-size: 1.2rem;
+  font-family: arial;
+}
+aside p {
+  display: inline-block;
+  color: #1080a9;
+  font-family: arial;
+  font-weight: bold;
+}
+aside div {
+  padding-bottom: 2rem;
+}
+footer {
+  text-align: center;
+}
+footer p {
+  color: white;
+  text-decoration: underline;
+  font-family: arial;
+  font-size: 1rem;
+}
+#back {
+  padding: 1rem 0;
+}
+footer img {
+  width: 100px;
+  padding: 3rem 0;
+}
